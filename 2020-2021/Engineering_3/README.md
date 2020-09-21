@@ -6,3 +6,4 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like soccer :soccer:
+Ian B. | [IanBolton](https://github.com/ibolton95) | I like basketball
